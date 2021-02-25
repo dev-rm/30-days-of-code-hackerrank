@@ -6,7 +6,9 @@
 
 ### Day 1 - Data Types
 
-How scan.next() and scan.nextLine work while reading tokens?
+Given: 
+`Scanner scan = new Scanner(System.in);`
+How do `scan.next()` and `scan.nextLine()` work while reading tokens?
 
 For input:
 
