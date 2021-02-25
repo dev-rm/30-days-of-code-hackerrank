@@ -13,7 +13,8 @@ How do `scan.next()` and `scan.nextLine()` work while reading tokens?
 For input:
 
 > d f \
-> Coding is interesting. I like to practise coding!
+> Coding is interesting. I like to practise  \
+> coding!
 
 scan.next() will read the next token d.
 
