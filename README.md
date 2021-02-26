@@ -6,7 +6,7 @@
 
 ### Day 1 - Data Types
 
-Given: 
+Given:
 `Scanner scan = new Scanner(System.in);`
 How do `scan.next()` and `scan.nextLine()` work while reading tokens?
 
@@ -23,4 +23,18 @@ scan.next() will read the next token d.
 scan.nexLine() will read the line "Coding...practise"
 
 scan.nextLine() will read "coding!"
+
+### Day 2 - Operators
+
+Dividing an int type value with a value greater than it will result in 0. \
+For example,
+
+```java
+int a = 8;
+
+double b = 8; 
+
+a = 8/100; // Answer is 0 
+
+b = 8/100; // Answer is 0.08
 
