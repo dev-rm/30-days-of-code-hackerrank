@@ -37,4 +37,8 @@ double b = 8;
 a = 8/100; // Answer is 0 
 
 b = 8/100; // Answer is 0.08
+```
 
+### Day 6 - Let's Review
+
+> Casting only works for certain types of relationships, such as between primitives or objects that inherit from another class.
