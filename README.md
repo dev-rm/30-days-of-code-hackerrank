@@ -74,7 +74,7 @@ stringName.length();
 
 ### Day 8 - Dictionaries and Maps
 
-A Java Map maps keys to values. A map cannot contian duplicate keys.
+A Java Map maps keys to values. A map cannot contain duplicate keys.
 
 NOTE : Both the _key_ and the _value_ must be Objects and not primitives.
 
